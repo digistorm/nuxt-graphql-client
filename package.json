@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-graphql-client",
+  "name": "@digistorm/nuxt-graphql-client",
   "version": "0.2.35",
   "keywords": [
     "vue",
